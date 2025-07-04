@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I am a PhD student at the University of Bern with the __Paleogenetics and Vegetation Modeling group__, working on the ancient DNA of trees. 
+
+Contact me at: jennifer.zhu@unibe.ch
 <!--
 **TeddysHoney/TeddysHoney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
